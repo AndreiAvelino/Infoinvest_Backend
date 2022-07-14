@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "03830172-eba2-49b9-913a-560e373b1d03": {
+      "ProjectGuid": "03830172-eba2-49b9-913a-560e373b1d03",
+      "DisplayName": "API",
+      "ColorIndex": 0
+    },
+    "8069cb3c-f5a8-4384-ad70-0d1d9378fb96": {
+      "ProjectGuid": "8069cb3c-f5a8-4384-ad70-0d1d9378fb96",
+      "DisplayName": "Domain",
+      "ColorIndex": 1
+    },
+    "47ddcf4c-4185-4a05-ab72-8e75d2cc5bff": {
+      "ProjectGuid": "47ddcf4c-4185-4a05-ab72-8e75d2cc5bff",
+      "DisplayName": "Repository",
+      "ColorIndex": 2
+    },
+    "64e9ffd4-b214-4a8d-a9ad-2718510f1879": {
+      "ProjectGuid": "64e9ffd4-b214-4a8d-a9ad-2718510f1879",
+      "DisplayName": "Service",
+      "ColorIndex": 3
+    },
+    "2fd1c520-5496-4f77-8cb3-ec7250ec7ce9": {
+      "ProjectGuid": "2fd1c520-5496-4f77-8cb3-ec7250ec7ce9",
+      "DisplayName": "Resource",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}

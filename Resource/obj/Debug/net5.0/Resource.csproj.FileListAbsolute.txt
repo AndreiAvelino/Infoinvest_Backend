@@ -1,0 +1,12 @@
+C:\Users\Andrei\source\repos\API\Resource\bin\Debug\net5.0\Resource.deps.json
+C:\Users\Andrei\source\repos\API\Resource\bin\Debug\net5.0\Resource.dll
+C:\Users\Andrei\source\repos\API\Resource\bin\Debug\net5.0\ref\Resource.dll
+C:\Users\Andrei\source\repos\API\Resource\bin\Debug\net5.0\Resource.pdb
+C:\Users\Andrei\source\repos\API\Resource\obj\Debug\net5.0\Resource.csproj.AssemblyReference.cache
+C:\Users\Andrei\source\repos\API\Resource\obj\Debug\net5.0\Resource.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrei\source\repos\API\Resource\obj\Debug\net5.0\Resource.AssemblyInfoInputs.cache
+C:\Users\Andrei\source\repos\API\Resource\obj\Debug\net5.0\Resource.AssemblyInfo.cs
+C:\Users\Andrei\source\repos\API\Resource\obj\Debug\net5.0\Resource.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\source\repos\API\Resource\obj\Debug\net5.0\Resource.dll
+C:\Users\Andrei\source\repos\API\Resource\obj\Debug\net5.0\ref\Resource.dll
+C:\Users\Andrei\source\repos\API\Resource\obj\Debug\net5.0\Resource.pdb
